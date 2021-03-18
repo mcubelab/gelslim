@@ -1,0 +1,52 @@
+? (192.168.1.209) at <incomplete> on enp61s0
+? (192.168.1.84) at <incomplete> on enp61s0
+? (192.168.1.235) at <incomplete> on enp61s0
+? (192.168.1.110) at <incomplete> on enp61s0
+? (192.168.1.229) at <incomplete> on enp61s0
+? (192.168.1.120) at <incomplete> on enp61s0
+? (192.168.1.114) at <incomplete> on enp61s0
+? (192.168.1.9) at <incomplete> on enp61s0
+? (192.168.1.140) at <incomplete> on enp61s0
+? (192.168.1.3) at <incomplete> on enp61s0
+? (192.168.1.134) at <incomplete> on enp61s0
+? (192.168.1.29) at <incomplete> on enp61s0
+? (192.168.1.144) at <incomplete> on enp61s0
+? (192.168.1.23) at <incomplete> on enp61s0
+? (192.168.1.170) at <incomplete> on enp61s0
+? (192.168.1.33) at <incomplete> on enp61s0
+? (192.168.1.164) at <incomplete> on enp61s0
+? (192.168.1.59) at <incomplete> on enp61s0
+? (192.168.1.190) at <incomplete> on enp61s0
+? (192.168.1.53) at <incomplete> on enp61s0
+? (192.168.1.200) at <incomplete> on enp61s0
+? (192.168.1.79) at <incomplete> on enp61s0
+? (192.168.1.194) at <incomplete> on enp61s0
+? (192.168.1.89) at <incomplete> on enp61s0
+? (192.168.1.220) at <incomplete> on enp61s0
+Yuvals-MBP (192.168.1.107) at 80:e6:50:02:53:6c [ether] on enp61s0
+? (192.168.1.101) at <incomplete> on enp61s0
+ESP_B75818 (192.168.1.42) at dc:4f:22:b7:58:18 [ether] on enp61s0
+? (192.168.1.62) at <incomplete> on enp61s0
+? (192.168.1.72) at <incomplete> on enp61s0
+JohnsAppleWatch (192.168.1.207) at <incomplete> on enp61s0
+? (192.168.1.116) at <incomplete> on enp61s0
+? (192.168.1.202) at <incomplete> on enp61s0
+? (192.168.1.222) at <incomplete> on enp61s0
+? (192.168.1.111) at <incomplete> on enp61s0
+? (192.168.1.121) at <incomplete> on enp61s0
+? (192.168.1.115) at <incomplete> on enp61s0
+Apple-TV-2 (192.168.1.145) at 1c:1a:c0:6c:d7:8b [ether] on enp61s0
+? (192.168.1.46) at <incomplete> on enp61s0
+Johns-phone (192.168.1.56) at 88:19:08:bb:d8:ef [ether] on enp61s0
+? (192.168.1.215) at <incomplete> on enp61s0
+? (192.168.1.106) at <incomplete> on enp61s0
+? (192.168.1.15) at <incomplete> on enp61s0
+CSMAJMARCUS03 (192.168.1.130) at 08:d2:3e:1c:76:d6 [ether] on enp61s0
+? (192.168.1.45) at <incomplete> on enp61s0
+? (192.168.1.206) at <incomplete> on enp61s0
+c13389jbisogna (192.168.1.95) at 88:e9:fe:86:0b:8e [ether] on enp61s0
+? (192.168.1.210) at <incomplete> on enp61s0
+? (192.168.1.105) at <incomplete> on enp61s0
+? (192.168.1.119) at <incomplete> on enp61s0
+Jeremys-iPhone (192.168.1.30) at 4a:c2:f6:74:13:fc [ether] on enp61s0
+? (192.168.1.199) at <incomplete> on enp61s0
