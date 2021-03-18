@@ -46,18 +46,6 @@
   
   - **NOTE:** the local name and password for the raspberry pi must be "raspi" for the automatic login of ssh to work
               if this is not the case you must change the local name and password within "raspberry_new.launch"
-
-### In Progress
-
-- ~~update default **.launch** and **env** file parameters over ssh~~ COMPLETE
-  * ~~IP Address~~ COMPLETE
-  * ~~Change camera resolution~~ COMPLETE
-- ~~Disconnect from Raspberry Pi while keeping the GUI Active~~ COMPLETE
-- ~~Automatically remove duplicate images from ./test_data folder~~ COMPLETE (only works for Dotted Gels)
-- ~~Prevent duplicate windows from being opened~~ COMPLETE
-- ~~Restart the Raspberry Pi over SSH if the first that it is connected to a node error is received~~ COMPLETE
-- Connect Multiple Raspberry Pi's and Stream Data to multiple nodes
-- Disconnect from and individual Raspberry Pi when streaming multiple
     
 ## Error Log
 
