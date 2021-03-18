@@ -16,6 +16,9 @@ This repo is under construction, the following files and folders are not present
   - Tangential Force Calculation
   - Normal Force Calculation
 
+## License
+These design files are licensed under CC-by-NC, as found in the LICENSE file.
+
 ## Citing
 If you use this project in your research, please cite this paper:
 @Article{Taylor2021GelSlim,
