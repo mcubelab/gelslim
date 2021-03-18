@@ -9,5 +9,6 @@ A demo of the GelSlim 3.0 finger's integrated algorithms for tactile sensing can
 
 ## Notice
 This repo is under construction, the following folders are not present.
-- /Simulation and Optimization
+- /Simulation and Optimization/Results
+- /Simulation and Optimization/Settings
 - /Software/RaspberryPi
