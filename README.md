@@ -11,7 +11,7 @@ A demo of the GelSlim 3.0 finger's integrated algorithms for tactile sensing can
 This repo is under construction, the following files and folders are not present.
 - /Simulation and Optimization/Results
 - /Simulation and Optimization/Settings
-- /Software/RaspberryPi
+- /Software/RaspberryPi/gelslim.img
 - /Software/GUI 
   - Tangential Force Calculation
   - Normal Force Calculation
