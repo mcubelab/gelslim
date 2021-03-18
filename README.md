@@ -5,3 +5,8 @@ GelSlim 3.0 is a tactile-sensing finger used for the high-resolution measurement
 
 ## Demonstration
 A demo of the GelSlim 3.0 finger's integrated algorithms for tactile sensing can be found at https://www.youtube.com/watch?v=Y10XN9byO0g
+
+
+## Notice
+This repo is still under construction, the following folders are not present.
+- /Simulation and Optimization
