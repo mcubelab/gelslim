@@ -19,7 +19,7 @@ This repo is under construction, the following files and folders are not present
 Manufacturing and assembly documentation is found in the Hardware Quick Start Guide
 
 ## Questions and Contributing
-If you have questions or need help with the content of this repo please open a ticket. We welcome useful contributions to the repo -- if you want to contribure please read how to contribute. The MCube Manipulations and Mechanisms Lab also distributes pre-made sensors by mail upon request.  Please direct all distribution inquiries to themcubelab@gmail.com  with the subject “GelSlim 3.0 Inquiry - mm/dd/yy - LAB NAME HERE”.    
+If you have questions or need help with the content of this repo please open a ticket. We welcome useful contributions to the repo -- if you want to contribute please read how to contribute. The MCube Manipulations and Mechanisms Lab also distributes pre-made sensors by mail upon request.  Please direct all distribution inquiries to themcubelab@gmail.com  with the subject “GelSlim 3.0 Inquiry - mm/dd/yy - LAB NAME HERE”.    
 
 
 ## License
