@@ -4,7 +4,7 @@
 This repository contains the documentation and manufacturing files for the enclosure, elastomer, electronics and software.
 
 ## Demonstration
-A demo of the GelSlim 3.0 finger's integrated algorithms for tactile sensing can be found at https://www.youtube.com/watch?v=Y10XN9byO0g
+A demo of the GelSlim 3.0 finger's integrated algorithms for tactile sensing can be found at https://www.youtube.com/watch?v=Y10XN9byO0g. The manuscript describing the design and optimization of the finger can be found at https://arxiv.org/abs/2103.12269.
 
 ## Notice
 This repo is under construction, the following files and folders are not present.
