@@ -22,4 +22,4 @@ Manufacturing and assembly documentation is found in the [Hardware Quick Start G
 If you have questions or need help with the content of this repo please open a ticket. We welcome useful contributions to the repo -- if you want to contribute please read how to contribute. The MCube Manipulations and Mechanisms Lab also distributes pre-made sensors by mail upon request. Please direct all distribution inquiries to the following form https://forms.gle/MbcMEy3fS2nrsJG58.
 
 ## License
-These design files are licensed under CC-by-NC, as found in the LICENSE file.
+These design files are licensed under CC-by-NC, as found in the [LICENSE](https://github.com/mcubelab/gelslim/blob/main/LICENSE) file.
