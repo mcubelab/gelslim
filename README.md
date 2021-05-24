@@ -15,8 +15,7 @@ This repo is under construction, the following files and folders are not present
   - Normal Force Calculation
 
 ## Quick Start
-Manufacturing and assembly documentation is found in the [Hardware Quick Start Guide]
-(../blob/master/GelSlim Hardware Quick Start Tutorial.pdf)
+Manufacturing and assembly documentation is found in the [Hardware Quick Start Guide](GelSlim Hardware Quick Start Tutorial.pdf)
 
 
 ## Questions and Contributing
