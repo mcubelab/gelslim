@@ -1,8 +1,8 @@
-
+<link href="style.css" type="text/css" />
 
 
 <body>    
-    <link href="./docs/style.css" rel="stylesheet" type="text/css" />
+
     <div id='mainframe'>
         <div id="header" align="center">
             <h1> GelSlim 3.0</h1>
