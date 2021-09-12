@@ -1,4 +1,4 @@
-<link href="style.css" type="text/css" />
+<link rel="stylesheet" type="text/css"  href="style.css"/>
 
 
 <body>    
