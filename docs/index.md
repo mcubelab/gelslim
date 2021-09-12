@@ -1,3 +1,4 @@
+<body>    
     <div id='mainframe'>
         <div id="header" align="center">
             <h1> GelSlim 3.0</h1>
