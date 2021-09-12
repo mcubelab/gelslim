@@ -1,5 +1,9 @@
-<link rel="stylesheet" type="text/css"  href="style.css"/>
+<head>
+    <meta charset="utf-8">
 
+    <title>GelSlim 3.0</title>
+    <link rel="stylesheet" type="text/css"  href="style.css"/>
+</head>
 
 <body>    
 
