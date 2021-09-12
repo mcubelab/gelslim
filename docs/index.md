@@ -1,4 +1,4 @@
-<!doctype html>
+
 
 <html lang="en">
 
@@ -47,7 +47,7 @@
             All the hardware and software has been open sourced under the CC-by-NC license so the sensors
             can easily be reproduced by other research laboratories. We also manufacture and deliver sensors upon <a href="https://forms.gle/GvABhS4cE3JDxKf59">request</a>.
             <p>All the sources are hosted on the <a href="https://github.com/mcubelab/gelslim">GelSlim Github site</a></p>
-            
+
             <h2>End-Users</h2>
             <p> We are proud to have provided GelSlim 3.0 sensors in collaboration with a variety of industry leading robotics research laboratories including: <a href="https://x.company/projects/everyday-robots/">The Everyday Robot Project - X</a>, <a href="https://www.merl.com/">Mistubishi Electric Research Labs</a>, <a href="https://global.abb/group/en">ABB Group</a> and <a href="https://www.magna.com/"> Magna International Inc.</a> If you are interested in collaborating please contact us at <a href = "mailto: themcubelab@gmail.com"> themcubelab@gmail.com</a>.
             </p>
@@ -63,11 +63,7 @@
             </em>
             The pdf of the paper is available <a href="https://arxiv.org/pdf/2103.12269.pdf">here</a>
 
-            <div align="center" style="padding-top: 10px">
+            <div align="center" style="padding-top: 20px">
                 <img style="height:10px" src="logo.png" />
                 <small>MCube Manipulations and Mechanisms Lab</small>
             </div>
-
-</body>
-
-</html>
