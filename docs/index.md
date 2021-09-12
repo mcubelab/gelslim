@@ -1,14 +1,4 @@
-
-
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-
-    <title>GelSlim</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
-</head>
-
+<link href="style.css" rel="stylesheet" type="text/css" />
 <body>
 
     <div id='mainframe'>
