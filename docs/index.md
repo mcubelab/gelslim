@@ -1,3 +1,4 @@
+<!doctype md>
 <link href="style.css" rel="stylesheet" type="text/css" />
 <body>
 
@@ -13,7 +14,7 @@
 
             <h2>Introduction</h2>
             <p>
-                This website is the entry point to the resources for the GelSlim tactile-sensing finger.
+                This website is the entry point to the resources for the GelSlim tactile-sensing finger. 
             </p>
 
             <h2>Videos</h2>
