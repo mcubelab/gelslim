@@ -1,3 +1,5 @@
+
+<link href="style.css" rel="stylesheet" type="text/css" />
 <body>    
     <div id='mainframe'>
         <div id="header" align="center">
