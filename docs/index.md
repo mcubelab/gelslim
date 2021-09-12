@@ -1,5 +1,5 @@
 
-<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="style.css" rel="stylesheet/style.css" type="text/css" />
 <body>    
     
     <div id='mainframe'>
