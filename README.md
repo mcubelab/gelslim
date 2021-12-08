@@ -2,6 +2,11 @@
 
 **Click on the pictures below for more information**
 
+## Step-by-Step Instructions
+| 3-D Printing  | PCB Fabrication | Elastomer Fabrication | Assembly |
+|---|---|---|---|
+| <a href="  "><img src="" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
+
 ## Mechanical
 | Elastomer | Fasteners | Body | Shaping Lens |
 |---|---|---|---|
@@ -15,17 +20,12 @@
 ## Software
 | Raspberry Pi | Dependencies | GUI | Calibration |
 |---|---|---|---|
-| <a href="  "><img src="src/images/software/raspberrypi_pcb.jpg" width="270"></a>| <a href="  "><img src="src/images/software/dependencies.jpg" width="270"></a>| <a href="  "><img src="src/images/software/gui.jpg" width="270"></a>| <a href="  "><img src="src/images/software/calibration.png" width="270"></a>| 
-
-## Step-by-Step Instructions
-| 3-D Printing  | PCB Fabrication | Elastomer Fabrication | Assembly |
-|---|---|---|---|
-| <a href="  "><img src="src/images/step_by_step/3d_printing.jpg" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
+| <a href="  "><img src="src/images/software/raspberrypi_pcb.jpg" width="270"></a>| <a href="  "><img src="src/images/software/dependencies.jpg" width="270"></a>| <a href="  "><img src="src/images/software/gui.jpg" width="270"></a>| <a href="  "><img src="src/images/software/calibration.jpg" width="270"></a>| 
 
 ## More Details
 | Mechanical Tools and Consumables | Electronics Components and Tools | Known Issues | Contributing |
 |---|---|---|---|
-| <a href="  "><img src="src/images/more_details/screwdrivers.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/hot_plate.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/contributing.jpg" width="270"></a>|
+| <a href="  "><img src="src/images/more_details/mechanical.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/electronics.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/contributing.jpg" width="270"></a>|
 
 ## More Information
 [GelSlim 3.0 - Webpage](https://ianhtaylor.net/gelslim-30)<br>
