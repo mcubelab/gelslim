@@ -5,12 +5,12 @@
 ## Mechanical
 | Elastomer | Fasteners | Body | Shaping Lens |
 |---|---|---|---|
-| <a href="  "><img src="src/images/mechanical/elastomer.jpg" width="270"></a>| <a href="  "><img src="src/images/mechanical/fasteners.jpg" width="270"></a>| <a href="  "><img src="src/images/mechanical/body.jpg" width="270"></a>| <a href="  "><img src="src/images/mechanical/shaping_lens.jpg" width="270"></a>| 
+| <a href="  "><img src="src/images/mechanical/elastomer.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/fasteners.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/body.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/shaping_lens.JPG" width="270"></a>| 
 
 ## Electrical
 | LED Driver | LED Harness | Camera | Connectors and Adapters |
 |---|---|---|---|
-| <a href="  "><img src="src/images/electrical/led_driver.jpg" width="270"></a>| <a href="  "><img src="src/images/electrical/led_harness.jpg" width="270"></a>| <a href="  "><img src="src/images/electrical/camera.jpg" width="270"></a>| <a href="  "><img src="src/images/electrical/connectors_and_adapters.jpg" width="270"></a>| 
+| <a href="  "><img src="src/images/electrical/led_driver.JPG" width="270"></a>| <a href="  "><img src="src/images/electrical/led_harness.JPG" width="270"></a>| <a href="  "><img src="src/images/electrical/camera.JPG" width="270"></a>| <a href="  "><img src="src/images/electrical/connectors_and_adapters.JPG" width="270"></a>| 
 
 ## Software
 | Raspberry Pi | Dependencies | GUI | Calibration |
@@ -20,12 +20,12 @@
 ## Step-by-Step Instructions
 | 3-D Printing  | PCB Fabrication | Elastomer Fabrication | Assembly |
 |---|---|---|---|
-| <a href="  "><img src="src/images/step_by_step/3d_printing.png" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.jpg" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.jpg" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.jpg" width="270"></a>| 
+| <a href="  "><img src="src/images/step_by_step/3d_printing.png" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
 
 ## More Details
 | Mechanical Tools and Consumables | Electronics Components and Tools | Known Issues |
 |---|---|---|
-| <a href="  "><img src="src/images/more_details/screwdrivers.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/hot_plate.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.png" width="270"></a>| 
+| <a href="  "><img src="src/images/more_details/screwdrivers.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/hot_plate.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.png" width="270"></a>| 
 
 ## More Information
 [GelSlim 3.0 - Webpage](https://ianhtaylor.net/gelslim-30)  
