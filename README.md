@@ -28,9 +28,12 @@
 | <a href="  "><img src="src/images/more_details/screwdrivers.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/hot_plate.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.jpg" width="270"></a>| 
 
 ## More Information
-[GelSlim 3.0 - Webpage](https://ianhtaylor.net/gelslim-30)  
+[GelSlim 3.0 - Webpage](https://ianhtaylor.net/gelslim-30)
+
 [GelSlim 3.0 - Paper](https://arxiv.org/abs/2103.12269)
-[GelSlim 3.0 - Demo](https://www.youtube.com/watch?v=Y10XN9byO0g)  
+
+[GelSlim 3.0 - Demo](https://www.youtube.com/watch?v=Y10XN9byO0g)
+  
 [MCube Lab - YouTube Channel](https://www.youtube.com/channel/UCMYUWZTFWZjj7pUc3UPUjig)    
 
 ## Notice
