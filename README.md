@@ -25,7 +25,7 @@
 ## More Details
 | Mechanical Tools and Consumables | Electronics Components and Tools | Known Issues | Contributing |
 |---|---|---|---|
-| <a href="  "><img src="src/images/more_details/screwdrivers.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/hot_plate.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.jpg" width="270"></a>| <a href="  "><img src="  " width="270"></a>|
+| <a href="  "><img src="src/images/more_details/screwdrivers.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/hot_plate.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/contributing.jpg" width="270"></a>|
 
 ## More Information
 [GelSlim 3.0 - Webpage](https://ianhtaylor.net/gelslim-30)<br>
