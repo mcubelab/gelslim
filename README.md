@@ -15,17 +15,17 @@
 ## Software
 | Raspberry Pi | Dependencies | GUI | Calibration |
 |---|---|---|---|
-| <a href="  "><img src="src/images/software/raspberrypi_pcb.png" width="270"></a>| <a href="  "><img src="src/images/software/dependencies.png" width="270"></a>| <a href="  "><img src="src/images/software/gui.png" width="270"></a>| <a href="  "><img src="src/images/software/calibration.png" width="270"></a>| 
+| <a href="  "><img src="src/images/software/raspberrypi_pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/software/dependencies.JPG" width="270"></a>| <a href="  "><img src="src/images/software/gui.JPG" width="270"></a>| <a href="  "><img src="src/images/software/calibration.JPG" width="270"></a>| 
 
 ## Step-by-Step Instructions
 | 3-D Printing  | PCB Fabrication | Elastomer Fabrication | Assembly |
 |---|---|---|---|
-| <a href="  "><img src="src/images/step_by_step/3d_printing.png" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
+| <a href="  "><img src="src/images/step_by_step/3d_printing.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
 
 ## More Details
 | Mechanical Tools and Consumables | Electronics Components and Tools | Known Issues |
 |---|---|---|
-| <a href="  "><img src="src/images/more_details/screwdrivers.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/hot_plate.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.png" width="270"></a>| 
+| <a href="  "><img src="src/images/more_details/screwdrivers.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/hot_plate.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.JPG" width="270"></a>| 
 
 ## More Information
 [GelSlim 3.0 - Webpage](https://ianhtaylor.net/gelslim-30)  
