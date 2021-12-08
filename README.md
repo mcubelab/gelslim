@@ -35,6 +35,13 @@
 
 ## Notice
 This repo is under construction, the following files and folders are not present.
+- src/images/step_by_step/3d_printing.jpg
+- Image links to and README documentation for root sub-folders
+	- Step-by-step Instructions
+	- Mechanical
+	- Electrical
+	- Software
+	- More Details
 - /Simulation and Optimization/Results
 - /Simulation and Optimization/Settings
 - /Software/GUI 
