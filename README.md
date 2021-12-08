@@ -23,9 +23,9 @@
 | <a href="  "><img src="src/images/step_by_step/3d_printing.jpg" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
 
 ## More Details
-| Mechanical Tools and Consumables | Electronics Components and Tools | Known Issues |
-|---|---|---|
-| <a href="  "><img src="src/images/more_details/screwdrivers.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/hot_plate.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.jpg" width="270"></a>| 
+| Mechanical Tools and Consumables | Electronics Components and Tools | Known Issues | Contributing |
+|---|---|---|---|
+| <a href="  "><img src="src/images/more_details/screwdrivers.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/hot_plate.JPG" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.jpg" width="270"></a>| <a href="  "><img src="  " width="270"></a>|
 
 ## More Information
 [GelSlim 3.0 - Webpage](https://ianhtaylor.net/gelslim-30)<br>
