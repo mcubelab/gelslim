@@ -1,7 +1,5 @@
 # GelSlim 3.0
 
-<iframe id="4873cd51-a1b2-4601-80e5-414bc3c54d73" src="https://www.vectary.com/viewer/v1/?model=4873cd51-a1b2-4601-80e5-414bc3c54d73&env=studio3&turntable=1" frameborder="0" width="100%" height="380"></iframe>
-
 **Click on the pictures below for more information**
 
 ## Mechanical
