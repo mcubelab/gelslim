@@ -1,10 +1,10 @@
 # GelSlim 3.0
+**Click on the pictures below for more information**
 
 ## Quick-Start
 Please follow the [Hardware Quick Start Guide](https://github.com/mcubelab/gelslim/blob/main/Hardware/GelSlim%20Hardware%20Quick%20Start%20Tutorial.pdf) instructions to build your own sensor. The step-by-step resources found below are in the process of being updated.
 
 ## Step-by-Step Instructions
-**Click on the pictures below for more information**
 | 3-D Printing  | PCB Fabrication | Elastomer Fabrication | Assembly |
 |---|---|---|---|
 | <a href="  "><img src="" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
