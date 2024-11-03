@@ -1,10 +1,13 @@
 # GelSlim 3.0
-**Click on the pictures below for more information**
+The MCube Lab at MIT has closed and no longer distributes pre-made sensors by mail upon request.
+Consider the latest version [GelSlim 4.0](https://www.mmintlab.com/research/gelslim-4-0/) at the University of Michigan's [MMint Lab](https://www.mmintlab.com/) for an easier to reproduce version of the sensor.
 
 ## Quick-Start
 Please follow the [Hardware Quick Start Guide](https://github.com/mcubelab/gelslim/blob/main/Hardware/GelSlim%20Quick%20Start%20Tutorial-Updated.pdf) instructions to build your own sensor. The step-by-step resources found below are in the process of being updated.
 
 ## Step-by-Step Instructions
+**Click on the pictures below for more information**
+
 | 3-D Printing  | PCB Fabrication | Elastomer Fabrication | Assembly |
 |---|---|---|---|
 | <a href="  "><img src="" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
@@ -49,9 +52,6 @@ This repo is under construction, the following files and folders are not present
 - /Software/GUI 
   - Tangential Force Calculation
   - Normal Force Calculation
-
-## Questions
-If you have questions or need help with the content of this repo please open a ticket. The MCube Manipulations and Mechanisms Lab also distributes pre-made sensors by mail upon request. Please direct all distribution inquiries to the following form https://forms.gle/MbcMEy3fS2nrsJG58.
 
 ## Authors
 Ian Taylor
