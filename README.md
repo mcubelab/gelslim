@@ -1,5 +1,5 @@
 # GelSlim 3.0
-The MCube Lab at MIT has closed and no longer distributes pre-made sensors by mail upon request.
+**Note:** The MCube Lab at MIT has closed and no longer distributes pre-made sensors by mail upon request.
 Consider the latest version [GelSlim 4.0](https://www.mmintlab.com/research/gelslim-4-0/) at the University of Michigan's [MMint Lab](https://www.mmintlab.com/) for an easier to reproduce version of the sensor.
 
 ## Quick-Start
